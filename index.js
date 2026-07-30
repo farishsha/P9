@@ -42,7 +42,7 @@ root.render(
       />
 
       <StudentCard
-        image="images2.jpg"
+        image="hari.png"
         name="Hari"
         regno="1U24CA036"
         department="BCA"
@@ -50,7 +50,7 @@ root.render(
       />
 
       <StudentCard
-        image="images3.jpg"
+        image="image.png"
         name="MUTHU"
         regno="1U24CA037"
         department="BCA"
